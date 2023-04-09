@@ -1,6 +1,6 @@
 # spart-iitb.org
 
-# Task 1
+# Task 1 ToDo
 
 ### Cherish
 - update here about sections you have noted
